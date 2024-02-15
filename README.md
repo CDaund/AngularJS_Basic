@@ -1,2 +1,2 @@
 # AngularJS_Basic
-Tutorials point collection of angular basic projects
+Angular JS 1.5 Basics
